@@ -1,0 +1,15 @@
+2022-10-11 21:24:29,593 run.py[line:28] INFO =============Start API Test=============
+2022-10-11 21:24:29,593 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:29,765 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:29,969 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:30,094 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:30,250 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:30,406 test_ecshop.py[line:20] INFO test01_login
+2022-10-11 21:24:30,594 test_phpwind.py[line:32] INFO test01_index
+2022-10-11 21:24:30,859 test_phpwind.py[line:42] INFO test02_checkname
+2022-10-11 21:24:30,969 test_phpwind.py[line:55] INFO test03_login
+2022-10-11 21:24:31,062 test_phpwind.py[line:71] INFO test04_referer
+2022-10-11 21:24:31,082 test_phpwind.py[line:55] INFO test03_login
+2022-10-11 21:24:31,660 test_phpwind.py[line:82] INFO test05_post
+2022-10-11 21:24:35,033 test_phpwind.py[line:109] INFO test06_return
+2022-10-11 21:24:35,033 test_phpwind.py[line:82] INFO test05_post
